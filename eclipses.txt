@@ -1,0 +1,6 @@
+eclipses.txt
+Created Fri Sep 29 12:19:30 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Eclipses
